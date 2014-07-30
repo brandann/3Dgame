@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 3f24b12197bcf6c4e80c5b543ca546fe
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Layer:block
+    100002: Layer:const
+    100004: Layer:const 1
+    100006: Layer:gear
+    100008: Layer:ground
+    100010: Layer:orb
+    100012: Layer:rings
+    100014: Layer:rings 1
+    100016: Layer:scafolding1
+    100018: Layer:scafolding2
+    100020: Layer:tower
+    100022: Layer:tower 1
+    100024: //RootNode
+    400000: Layer:block
+    400002: Layer:const
+    400004: Layer:const 1
+    400006: Layer:gear
+    400008: Layer:ground
+    400010: Layer:orb
+    400012: Layer:rings
+    400014: Layer:rings 1
+    400016: Layer:scafolding1
+    400018: Layer:scafolding2
+    400020: Layer:tower
+    400022: Layer:tower 1
+    400024: //RootNode
+    2300000: Layer:block
+    2300002: Layer:gear
+    2300004: Layer:ground
+    2300006: Layer:orb
+    2300008: Layer:rings
+    2300010: Layer:rings 1
+    2300012: Layer:scafolding1
+    2300014: Layer:scafolding2
+    2300016: Layer:tower 1
+    3300000: Layer:block
+    3300002: Layer:gear
+    3300004: Layer:ground
+    3300006: Layer:orb
+    3300008: Layer:rings
+    3300010: Layer:rings 1
+    3300012: Layer:scafolding1
+    3300014: Layer:scafolding2
+    3300016: Layer:tower 1
+    4300000: Layer:tower
+    4300002: Layer:rings
+    4300004: Layer:rings
+    4300006: Layer:orb
+    4300008: Layer:block
+    4300010: Layer:ground
+    4300012: Layer:gear
+    4300014: Layer:scafolding1
+    4300016: Layer:scafolding2
+    6400000: Layer:block
+    6400002: Layer:gear
+    6400004: Layer:ground
+    6400006: Layer:orb
+    6400008: Layer:rings
+    6400010: Layer:rings 1
+    6400012: Layer:scafolding1
+    6400014: Layer:scafolding2
+    6400016: Layer:tower 1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
